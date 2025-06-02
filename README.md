@@ -1,7 +1,6 @@
-# React + Vite
+# Weather Dashboard App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
+A responsive and modern Weather Dashboard built with React and Tailwind CSS. It fetches real-time weather data from the OpenWeatherMap API, displaying current weather conditions and a 5-day forecast. Users can search weather by city, toggle between Celsius and Fahrenheit, and see recent searches saved locally.
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
